@@ -1,0 +1,372 @@
+@media screen and (max-width: 1199px) {
+    .menu-area .search input {
+        width: 110px;
+    }
+
+    .photo-slider::after {
+        display: none;
+    }
+
+    .photo_on_slider {
+        padding-bottom: 30px;
+    }
+
+    .photo_on_slider h3 {
+        font-size: 18px;
+    }
+    
+    .photo_on_slider h1 {
+        font-size: 40px;
+    }
+
+    .photo_on_slider .studio_para p {
+        font-size: 15px;
+    }
+
+    .foot-logo .footer-logo img {
+        padding-left: 10%;
+        padding-right: 30%;
+    }
+
+    .foot-logo-content .footer-social {
+        word-spacing: 0;
+        padding-left: 20px;
+    }
+
+    .single-member .member-body h2 {
+        font-size: 25px;
+    }
+
+    .single-member .member-body h3 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .left-side,
+    .right-side {
+        text-align: center;
+    }
+
+    .right-side i {
+        padding: 0 15px;
+    }
+
+    .menu-area .logo {
+        text-align: center;
+        padding-bottom: 0;
+    }
+
+    .menu-area .main-menu ul li a {
+        font-size: 14px;
+    }
+
+    .menu-area .search input {
+        font-size: 14px;
+    }
+
+    section.header-slider {
+        padding-top: 15px;
+    }
+
+    .photo-slider {
+        margin: auto;
+        margin-top: 10%;
+        margin-left: 50%;
+    }
+
+    .photo_on_slider h3 {
+        text-align: center;
+    }
+    
+    .photo_on_slider h1 {
+        text-align: center;
+    }
+
+    .photo-slider {
+        width: 100%;
+    }
+
+    .photo-slider::after {
+        display: none;
+    }
+
+    .photo_on_slider .studio_para {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .photo_on_slider .studio_para .button {
+        text-align: center;
+    }
+
+    .recent-work .recent-work-listbar ul li a {
+        font-size: 16px;
+    }
+
+    .recent-work .recent-work-header h1 {
+        font-size: 55px;
+    }
+
+    .recent-work ul.recent-work-listbar li {
+        display: block;
+        text-align: left;
+        border-right: none;
+        margin: 5px 0;
+        padding-left: 10px;
+        border-left: 2px solid #444444; 
+    }
+
+    .footer-foot .foot-logo::after {
+        right: -40px;
+        height: 230px;
+    }
+
+    .foot-logo .footer-logo img {
+        padding-top: 20px;
+        padding-left: 10%;
+        padding-right: 30%;
+    }
+
+    .foot-logo-content .footer-social {
+        word-spacing: 0;
+        padding-left: 20px;
+    }
+
+    .foot-bottom {
+        padding-bottom: 30px;
+        padding-left: 100px;
+    } 
+    
+    .single-member .member-body h2 {
+        font-size: 20px;
+    }
+
+    .single-member .member-body h3 {
+        font-size: 14px;
+    }
+
+    .team_member_area .team-member-header h1::after {
+        margin-left: -4px;
+    }
+
+    .team_member_area .team-member-header h1 {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .col-xs-0 .main-menu {
+        display: none;
+    }
+
+    .col-xs-10 .window-search {
+        display: none;
+    }
+
+    .medium-screen-menu {
+        display: block;
+    }
+
+    .medium-screen-menu .search {
+        padding-right: 100px;
+    }
+
+    .medium-screen-menu .search input {
+        width: 160px;
+    }
+
+    .mobile-menu {
+        display: block;
+    }
+
+    .photo-slider {
+        width: 50%;
+        margin: auto;
+        padding-top: 100px;
+    }
+    
+    .photo_on_slider .studio_para {
+        width: 100%;
+        padding: 20px 50px;
+        margin: auto;
+    }
+
+    .recent-work .recent-work-listbar ul li a {
+        font-size: 12px;
+    }
+
+    .recent-work .recent-work-header h1 {
+        font-size: 45px;
+    }
+
+    .footer-foot .foot-logo::after {
+        right: 0;
+        height: 230px;
+    }
+
+    .foot-contact {
+        padding-top: 220px;
+    }
+
+    .foot-bottom {
+        padding-left: 15%;
+    } 
+    
+    .team_member_area .single-member {
+       width: 48%; 
+       margin-left: 2%;
+       margin-bottom: 2%;
+    }
+
+    .team_member_area .team-member-header h1::after {
+        margin-left: -10px;
+    }
+
+    .team_member_area .team-member-header h1::before {
+        margin-left: -15px;
+    }
+    
+    .theme h3 {
+        font-size: 20px;
+    }
+
+    .theme .btn {
+        width: 300px;
+        left: calc(50% - 150px);
+    }
+
+    .blog-body h3 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 512px) {
+    .menu-area {
+        display: none;
+    }
+    
+    .col-xs-12 .logo {
+        display: block;
+    }
+
+    .xs-mobile-menu {
+        display: block;
+    }
+
+    .xs-mobile-menu .bars a span {
+        display: none;
+    }
+
+    .slide .slide-content .para-1 {
+        font-size: 18px;
+        width: 70%;
+        margin: auto;
+    } 
+    
+    .slide .slide-content h2 {
+        font-size: 35px;
+    }
+    
+    .slide .slide-content .para-2 {
+        font-size: 12px;
+        padding-top: 20px;
+        width: 70%;
+        line-height: 20px;
+    }
+    
+    .slide .button {
+        padding-top: 40px;
+    }
+    
+    .slide .button a {
+        padding: 6px 15px;
+    }
+
+    .team_member_area .single-member {
+        width: 96%; 
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-bottom: 2%;
+     }
+
+    .team_member_area .team-member-header h1::after {
+        margin-left: -20px;
+    }
+
+    .team_member_area .team-member-header h1::before {
+        margin-left: -35px;
+    }
+
+    .core-body h3 {
+        font-size: 20px;
+    }
+
+    .theme {
+        padding: 30px 20px;
+    }
+
+    .theme h3 {
+        font-size: 20px;
+    }
+
+    .theme .btn {
+        width: 240px;
+        border-radius: 30px;
+        font-size: 10px;
+        text-transform: uppercase;
+        padding: 10px;
+        position: absolute;
+        background-color: #8bc34a;
+        color: #ffffff;
+        left: calc(50% - 120px);
+        bottom: -20px;
+    }
+}
+
+@media screen and (max-width: 404px) {
+    .recent-work-item .recent-hover h3 {
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .recent-work-item .recent-hover .recent-social {
+       width: 100%;
+       text-align: left;
+    }
+
+    .recent-work .recent-work-header h1 {
+        font-size: 40px;
+    }
+
+    .team_member_area .team-member-header h1 {
+        font-size: 40px;
+    }
+
+    .team_member_area .team-member-header h1::after {
+        margin-left: -30px;
+    }
+
+    .team_member_area .team-member-header h1::before {
+        margin-left: -48px;
+    }
+
+    .blog-body h2 {
+        font-size: 23px;
+    }
+
+    .blog-body .blog-2 {
+        display: block;
+        width: 200%;
+        margin: auto;
+        margin-left: 15px;
+    }
+
+    .blog-body .blog-3 {
+        padding-top: 250px;
+        display: block;
+        width: 200%;
+        margin: auto;
+        margin-left: -110%;
+    }
+}
